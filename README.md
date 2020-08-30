@@ -1,6 +1,6 @@
 # Three-Card-Poker
 
-![Gameplay]()
+![Gameplay](https://i.imgur.com/kaQIp7O.png)
 
 # Rules
 |Hand Ranking|What is that?|When both hands are same ranking|
